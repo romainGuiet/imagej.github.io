@@ -1,7 +1,7 @@
 ---
 title: BIOP Lookup Tables
 name: BIOP Lookup Tables
-source-url: http://biop.epfl.ch/INFO_Facility.html#staff
+source-url: https://www.epfl.ch/research/facilities/ptbiop/staff/
 source-label: PTBIOP staff site
 release-date: Oct 2016
 dev-status: Stable
