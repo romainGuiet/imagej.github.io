@@ -1,7 +1,7 @@
 ---
 title: BIOP Lookup Tables
 name: BIOP Lookup Tables
-source-url: http://biop.epfl.ch/INFO_Facility.html#staff
+source-url: https://www.epfl.ch/research/facilities/ptbiop/staff/
 source-label: PTBIOP staff site
 release-date: Oct 2016
 dev-status: Stable
@@ -62,3 +62,15 @@ Here, channels 2 and 3 are tubular structure and it's difficult to distinguish t
 ## Install
 
 You can either use our PTBIOP update site or download [biop-luts.zip](/media/plugins/biop-lut/biop-luts.zip) and extract to the \luts folder.
+
+## Cheatsheet table 
+
+| name | Color Hex | (R,G,B) | 
+|-------|-------|-------|
+| azure | #0080ff |(0,128,255)|
+| springgreen | #00ff80 |(0,255,128)|
+| chartreuse | #80ff00 |(128,255,0)|
+| amber | #ff8000 |(255,128,0)|
+| brightpink | #ff0080 |(255,0,128)|
+|electric-indigo | #8000ff |(128,0,255)|
+
